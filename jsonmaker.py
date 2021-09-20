@@ -6,7 +6,7 @@ from database import *
 from config import *
 
 print(banner)
-print('Source on GitHub: https://github.com/hengyi666/Exhausted-spider\nAuthor: Hengyi')
+print('Source on GitHub: https://github.com/hengyi666/QFSpider\nAuthor: Hengyi')
 parser = argparse.ArgumentParser(
     description='Construct A Json File Through Connecting The Database'
 )
